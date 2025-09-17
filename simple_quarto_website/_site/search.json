@@ -7,6 +7,34 @@
     "text": "About this site"
   },
   {
+    "objectID": "slides/slides.html#norman",
+    "href": "slides/slides.html#norman",
+    "title": "Pets",
+    "section": "Norman",
+    "text": "Norman\n\nMy cat normanRandom source: (Brandsaas and Soerlie Kvaerner 2024)"
+  },
+  {
+    "objectID": "slides/slides.html#chart",
+    "href": "slides/slides.html#chart",
+    "title": "Pets",
+    "section": "Chart",
+    "text": "Chart\nHere is a chart:\n\n#| code-fold: show\nimport matplotlib.pyplot as plt \n\nx = [10, 20, 30, 40]\ny = [1, 2, 3, 4]\n\nplt.plot(x,y)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#sage",
+    "href": "slides/slides.html#sage",
+    "title": "Pets",
+    "section": "Sage",
+    "text": "Sage\n\nMy cat sage"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "Pets",
+    "section": "References",
+    "text": "References\n\n\n\n\nBrandsaas, Eirik, and Jens Soerlie Kvaerner. 2024. “Partial Homeownership: A Quantitative Analysis.”"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "simple_quarto_website",
@@ -14,18 +42,11 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "index.html#section-2",
-    "href": "index.html#section-2",
-    "title": "simple_quarto_website",
-    "section": "Section 2",
-    "text": "Section 2\n\nSection 3"
-  },
-  {
     "objectID": "index.html#section-1.1",
     "href": "index.html#section-1.1",
     "title": "simple_quarto_website",
     "section": "Section 1.1",
-    "text": "Section 1.1\nHere is some text in two columns:\n\n\nText in Column 1. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nText in Column 2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\n\nHere is a table\n\n\n\nColumn 1\nColumn 2\n\n\n\n\nThis is the text in column 1\nThis is the text in column 2\n\n\n\n\nSection 1.1.1\nHere is a bulleted list:\n\nBullet 1\nBullet 2\nBullet 3"
+    "text": "Section 1.1\nHere is some text in two columns:\n\n\nText in Column 1. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nText in Column 2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\n\nHere is a table\n\n\n\nColumn 1\nColumn 2\n\n\n\n\nThis is the text in column 1\nThis is the text in column 2\n\n\n\nHere is a mermaid diagram\n\n\n\n\n\nflowchart LR\n    A[Start here] --&gt; B(Then go here)\n    B --&gt; C{Make a Decision}\n    C --&gt; D[Then maybe here]\n    C --&gt; E[Or possibly here]\n    D --&gt; F[End here]\n    E --&gt; F[End here]\n\n\n\n\n\n\nThe cited paper has some interesting research that I worked on (Brandsaas and Soerlie Kvaerner 2024).\n\nSection 1.1.1\nHere is a bulleted list:\n\nBullet 1\nBullet 2\nBullet 3\n\nHere is an embedded video:\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "index.html#footnotes",
