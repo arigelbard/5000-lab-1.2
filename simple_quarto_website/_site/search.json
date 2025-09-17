@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "simple_quarto_website",
+    "section": "Section 2",
+    "text": "Section 2\n\nSection 3"
+  },
+  {
+    "objectID": "index.html#section-1.1",
+    "href": "index.html#section-1.1",
+    "title": "simple_quarto_website",
+    "section": "Section 1.1",
+    "text": "Section 1.1\nHere is some text in two columns:\n\n\nText in Column 1. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nText in Column 2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\n\nHere is a table\n\n\n\nColumn 1\nColumn 2\n\n\n\n\nThis is the text in column 1\nThis is the text in column 2\n\n\n\n\nSection 1.1.1\nHere is a bulleted list:\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is some footnote text.↩︎"
+  }
+]
